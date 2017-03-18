@@ -397,5 +397,4 @@ echo 127.0.0.1 http://zh-cn.facebook.com  >>  C:\Windows\System32\drivers\etc\ho
 echo 127.0.0.1 http://zh-tw.facebook.com  >>  C:\Windows\System32\drivers\etc\hosts
  
  
-
-  exit
+exit
