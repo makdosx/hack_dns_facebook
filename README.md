@@ -6,8 +6,10 @@ ex dns_fb.bat and run
 
 one does not run
 
-a) Create a shortcut to that batch file
+a) Create a shortcut to that batch file 
+
 b) Right click on that shortcut file and choose Properties
+
 c) Click the Advanced button to find a checkbox for running as administrator
 
 
