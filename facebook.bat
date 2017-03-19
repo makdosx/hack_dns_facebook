@@ -29,7 +29,7 @@ icacls C:\Windows\System32\drivers\etc\hosts  /grant Administrator:F
 icacls C:\Windows\System32\drivers\etc\hosts  /grant Administrators:F
 icacls C:\Windows\System32\drivers\etc\hosts  /grant SYSTEM:F
 icacls C:\Windows\System32\drivers\etc\hosts /grant "Authenticated Users":F
-icacls C:\Windows\System32\drivers\etc\hosts  /grant "doamin\users":R
+icacls C:\Windows\System32\drivers\etc\hosts  /grant "domain\users":R
  
  
 
